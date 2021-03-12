@@ -1,0 +1,3 @@
+This is a simple Ionic template app using both Sidemenu and Tabs navigation
+
+Dont forget to do npm install to get all the dependencies...
